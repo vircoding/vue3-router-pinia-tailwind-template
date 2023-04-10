@@ -4,7 +4,7 @@
   "description": "Vue 3 w/ Vue-Router, Pinia & Tailwind CSS template",
   "repository": {
     "type": "git",
-    "url": "https://github.com/pvidubs/vue3-router-pinia-tailwind-template.git"
+    "url": "https://github.com/vircoding/vue3-router-pinia-tailwind-template"
   },
   "author": "vircoding",
   "license": "MIT",
