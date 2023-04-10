@@ -1,4 +1,4 @@
-# sigma
+# vue3-router-pinia-tailwind-template
 
 This template should help get you started developing with Vue 3 in Vite.
 
