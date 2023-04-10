@@ -1,0 +1,36 @@
+{
+  "name": "vue3-router-pinia-tailwind-template",
+  "version": "1.0.0",
+  "description": "Vue 3 w/ Vue-Router, Pinia & Tailwind CSS template",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/pvidubs/vue3-router-pinia-tailwind-template.git"
+  },
+  "author": "vircoding",
+  "license": "MIT",
+  "keywords": [
+    "vue",
+    "vue-router",
+    "pinia",
+    "tailwindcss",
+    "vite"
+  ],
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "pinia": "^2.0.28",
+    "vue": "^3.2.45",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^4.0.0",
+    "autoprefixer": "^10.4.14",
+    "postcss": "^8.4.21",
+    "tailwindcss": "^3.3.1",
+    "vite": "^4.0.0"
+  }
+}
+
